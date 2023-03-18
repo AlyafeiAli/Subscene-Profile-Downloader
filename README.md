@@ -8,3 +8,6 @@ I created this script to batch download a subscene profile's subtitles.
 If that didn't work then run `python -m pip install -r requirements.txt` instead.  
 4- Run `python main.py`.
 5- enter the profile's ID. For example, [this profile's id](https://subscene.com/u/1077832) is 1077832.
+
+## General Notes
+- You should install latest version of Chrome. (version 111.0.5563.65).
